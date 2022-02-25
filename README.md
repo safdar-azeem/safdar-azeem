@@ -73,7 +73,7 @@
   - Styled components  
   - Sharkui
   
-<div style="position:absolute;top:82px;right:20px">
+<p style="position:absolute;top:82px;right:20px">
 
 ## Vue Libraries:
   - Vuex
@@ -111,6 +111,6 @@
   - Postman
   - NETLIFY HEROKU
 
-</div>
+</p>
 
 <br/><br/>
