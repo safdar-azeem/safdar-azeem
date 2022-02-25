@@ -31,4 +31,86 @@
   <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&style=flat-square&logo=Apollo GraphQL" />
 </p>
 
+
+# 🛠 Skills
+
+## Design
+  - Sketch
+  - InVision
+  - Photoshop
+  - Figma
+  - UX
+  - Colour theory
+  - UX design process
+  <br> </br>
+## Front-End
+  - HTML5,
+  - CSS3,
+  - SASS,
+  - Bootstrap,
+  - Tailwind CSS,
+  - User Experience Design 
+  - Responsive Web Design
+   <br> </br>
+  ## Scripting Languages:
+  - JavaScript (ES6,...ES13, OOP) 
+  - Typescript
+  <br> </br>
+## JS Frameworks:
+  - React JS
+  -  React Native 
+  -  Electron React 
+  -  Vue (2,3)
+  -  Angular
+<br> </br>
+## React Libraries:
+  - Redux ,
+  - Redux thunk,
+  - Material Ui,
+  - React Router 5, 6,  
+  - Reactgraph
+  - BlueprintJS,
+  - Styled components  
+  - Sharkui
+  
+<div style="position:absolute;top:82px;right:20px">
+
+## Vue Libraries:
+  - Vuex
+  - Vue Router  
+  - Vuetify
+  - Vite
+  - Vue CLI
+  <br> </br>
+## Version Control Systems: 
+  - Git,
+  - GitLab
+  - GitHub
+  - Git-Tower
+  <br> </br>
+## Back-End and Database Skills :
+  - Node,
+  - Express,
+  - GraphQL Apollo,
+  - MongoDB,
+  - Firebase
+  - MySQL
+  - socket Io
+  <br> </br>
+## DevOps
+  - CI/CD 
+  - Docker 
+  - AWS
+  <br> </br>
+## TOOLS / ARCHITECTURES
+  - Jira
+  - Storybook
+  - Slack,
+  - NPM/YARN
+  - MVC, RESTFUL
+  - Postman
+  - NETLIFY HEROKU
+
+</div>
+
 <br/><br/>
