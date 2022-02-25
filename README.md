@@ -17,14 +17,7 @@
 
 ---
 
-### What I work with
-
-<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
-
-<h4>Languages</h4>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
-</p>
+### Skills
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
