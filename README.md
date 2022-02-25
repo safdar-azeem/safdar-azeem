@@ -3,9 +3,6 @@
 <p>Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer and online instructor. I’ve been interested in programming since my childhood. I'm a self-taught developer and love to help others figure out programming on their own as well  </p>
 
 - 📚 I'm currently learning DEVOPS,
-- 🎯 2022 Goals
-  - Double down on WebGL & refine integrations with Vue/Nuxt
-  - 
 
 #### Connect with me
 
