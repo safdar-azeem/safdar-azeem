@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safdar Azeem</h1>
-### Hi, I'm Dipanjan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
-
-<h3>I'm a Creative Developer and a <span>Data Scientist</span></h3>
+<p>Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer and online instructor. I’ve been interested in programming since my childhood. I'm a self-taught developer and love to help others figure out programming on their own as well  </p>
 
 - 📚 I'm currently learning WebGL, Data Science and Blockchain (Weird, ikr?)
 - 🎯 2022 Goals
