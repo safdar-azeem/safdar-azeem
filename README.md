@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safdar Azeem</h1>
-<h3 align="center">Hi! I am a MERN | VUE | REACT-NATIVE developer and online instructor. with around 5+ years of extensive experience. I’ve been interested in programming since my childhood, because it gave me freedom to build something with which people can interact, and it didn’t require a big investment. All I needed was a computer and programming courses. I'm a self-taught developer and love to help others figure out programming on their own as well I created some websites for my personal projects but but after a while people started to contact me to develop their websites, funny how everything worked out I Build a lot of applications for very small companies and pretty huge ones I am familiar with a wide range of programming utilities and languages, Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. I have acquired the skills and knowledge necessary to make any project a success.</h3>
+<h3 align="center">Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer and online instructor. I’ve been interested in programming since my childhood, because it gave me freedom to build something with which people can interact, and it didn’t require a big investment. All I needed was a computer and programming courses. I'm a self-taught developer and love to help others figure out programming on their own.</h3>
+
 
 - 📫 How to reach me **safdarazeem00@gmail.com**
 
