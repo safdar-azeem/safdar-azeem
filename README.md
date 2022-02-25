@@ -1,14 +1,126 @@
 <h1 align="center">Hi 👋, I'm Safdar Azeem</h1>
-<h3 align="center">Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer and online instructor. I’ve been interested in programming since my childhood, because it gave me freedom to build something with which people can interact, and it didn’t require a big investment. All I needed was a computer and programming courses. I'm a self-taught developer and love to help others figure out programming on their own.</h3>
+### Hi, I'm Dipanjan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
 
-- 📫 How to reach me **safdarazeem00@gmail.com**
+<h3>I'm a Creative Developer and a <span>Data Scientist</span></h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/safdarazeem05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safdarazeem05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/safdar-azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safdar-azeem" height="30" width="40" /></a>
+- 📚 I'm currently learning WebGL, Data Science and Blockchain (Weird, ikr?)
+- 🎯 2022 Goals
+  - Double down on WebGL & refine integrations with Vue/Nuxt
+  - Try out some simulations using ThreeJS
+  - Try out Svelte/SvelteKit
+  - Start publishing Vue Plugins
+  - Release initial versions of [Ecosphere](https://ecosphere.dev)
+  - Complete #66DaysOfData Challenge
+  - Work on some Web3 Projects and learn more about Smart Contracts
+  - 学习中文
+- 🎹 I play a piano!
+
+#### Connect with me
+
+<a href="https://www.linkedin.com/in/dipanjan131/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://www.instagram.com/bacon_delight/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://calendly.com/bacon_delight/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
+
+<br/><br/>
+
+---
+
+### What I work with
+
+<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
+
+<h4>Languages</h4>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bacon-delight&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
+</p>
+<p>
+  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
+  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
+  <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&style=flat-square&logo=WebGL" />
+  <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&style=flat-square&logo=Lua" />
+  <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&style=flat-square&logo=Solidity" />
+  <img align="left" src="https://img.shields.io/badge/Octave-1c1c1c?&style=flat-square&logo=Octave" />
+  <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
+</p>
+  
+<br/><br/>
+
+<h4>UI Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
+    <img align="left" src="https://img.shields.io/badge/Nuxt-1c1c1c?&style=flat-square&logo=Nuxt.js" />
+  <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&style=flat-square&logo=Svelte" />
+  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+  <img align="left" src="https://img.shields.io/badge/ThreeJS-1c1c1c?&style=flat-square&logo=Three.js" />
+  <img align="left" src="https://img.shields.io/badge/GreenSock-1c1c1c?&style=flat-square&logo=GreenSock" />
+  <img align="left" src="https://img.shields.io/badge/Electron-1c1c1c?&style=flat-square&logo=Electron" />
+  <img align="left" src="https://img.shields.io/badge/Capacitor-1c1c1c?&style=flat-square&logo=Capacitor" />
+</p>
+  
+<br/><br/>
+
+<h4>Server Side Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&style=flat-square&logo=Flask" />
+  <img align="left" src="https://img.shields.io/badge/Django-1c1c1c?&style=flat-square&logo=Django" />
+  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
+  <img align="left" src="https://img.shields.io/badge/GraphQL-1c1c1c?&style=flat-square&logo=GraphQL" />
+  <img align="left" src="https://img.shields.io/badge/Firebase-1c1c1c?&style=flat-square&logo=Firebase" />
+  <img align="left" src="https://img.shields.io/badge/Supabase-1c1c1c?&style=flat-square&logo=Supabase" />
+  <img align="left" src="https://img.shields.io/badge/Apollo-1c1c1c?&style=flat-square&logo=Apollo GraphQL" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br/><br/>
+
+<h4>Data Science Libraries & Frameworks</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Tableau-1c1c1c?&style=flat-square&logo=Tableau" />
+  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&style=flat-square&logo=TensorFlow" />
+  <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&style=flat-square&logo=PyTorch" />
+</p>
+
+<br/><br/>
+
+<h4>Payment Integrations</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/Stripe-1c1c1c?&style=flat-square&logo=Stripe" />
+  <img align="left" src="https://img.shields.io/badge/PayPal-1c1c1c?&style=flat-square&logo=PayPal" />
+  <img align="left" src="https://img.shields.io/badge/Razorpay-1c1c1c?&style=flat-square&logo=Razorpay" />
+</p>
+
+<br/><br/>
+
+<h4>Devices</h4>
+<p>
+  <img align="left" src="https://img.shields.io/badge/MacBook Air M1-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Raspberry Pi-A22846?&style=for-the-badge&logo=Raspberry Pi&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Arduino-00979D?&style=for-the-badge&logo=Arduino&logoColor=white" />
+</p>
+
+<br/><br/>
+
+---
+
+### Articles & Notes
+- [JavaScript Refresher](https://bacon-notes.notion.site/JavaScript-Refresher-0c57452cc613429098170bbc97c4c000)
+- [Vue API Integration](https://bacon-notes.notion.site/Vue-API-Integration-b9eeb9b801fd4766919735940293e16b)
+
+<br/>
+
+If you like what I do, maybe consider buying me a coffee?
+
+<a href="https://www.buymeacoffee.com/bacondelight" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee?" width="150" ></a>
+
+---
+
+### Statistics
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
+
+![Github Activity](https://activity-graph.herokuapp.com/graph?username=bacon-delight&theme=github&custom_title=Activity)
