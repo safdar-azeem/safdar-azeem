@@ -2,25 +2,16 @@
 
 <p>Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer and online instructor. I’ve been interested in programming since my childhood. I'm a self-taught developer and love to help others figure out programming on their own as well  </p>
 
-- 📚 I'm currently learning WebGL, Data Science and Blockchain (Weird, ikr?)
+- 📚 I'm currently learning DEVOPS,
 - 🎯 2022 Goals
   - Double down on WebGL & refine integrations with Vue/Nuxt
-  - Try out some simulations using ThreeJS
-  - Try out Svelte/SvelteKit
-  - Start publishing Vue Plugins
-  - Release initial versions of [Ecosphere](https://ecosphere.dev)
-  - Complete #66DaysOfData Challenge
-  - Work on some Web3 Projects and learn more about Smart Contracts
-  - 学习中文
-- 🎹 I play a piano!
+  - 
 
 #### Connect with me
 
-<a href="https://www.linkedin.com/in/dipanjan131/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://www.instagram.com/bacon_delight/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://twitter.com/bacon_delight"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="mailto:dipanjan131@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://calendly.com/bacon_delight/15min"><img align="left" src="https://img.shields.io/badge/Schedule a Meeting-4285F4?&style=for-the-badge&logo=Google Calendar&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/safdar-azeem/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://twitter.com/safdarazeem05"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="mailto:safdarazeem00@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -36,18 +27,6 @@
 </p>
 <p>
   <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
-  <img align="left" src="https://img.shields.io/badge/WebGL-1c1c1c?&style=flat-square&logo=WebGL" />
-  <img align="left" src="https://img.shields.io/badge/Lua-1c1c1c?&style=flat-square&logo=Lua" />
-  <img align="left" src="https://img.shields.io/badge/Solidity-1c1c1c?&style=flat-square&logo=Solidity" />
-  <img align="left" src="https://img.shields.io/badge/Octave-1c1c1c?&style=flat-square&logo=Octave" />
-  <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
-</p>
-  
-<br/><br/>
-
-<h4>UI Libraries & Frameworks</h4>
-<p>
   <img align="left" src="https://img.shields.io/badge/Vue-1c1c1c?&style=flat-square&logo=Vue.js" />
     <img align="left" src="https://img.shields.io/badge/Nuxt-1c1c1c?&style=flat-square&logo=Nuxt.js" />
   <img align="left" src="https://img.shields.io/badge/Svelte-1c1c1c?&style=flat-square&logo=Svelte" />
