@@ -73,7 +73,7 @@
   - Styled components  
   - Sharkui
   
-<p align="right">
+<p align="left">
 
 ## Vue Libraries:
   - Vuex
