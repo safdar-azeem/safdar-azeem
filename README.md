@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safdar Azeem</h1>
 
-<p>Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer and online instructor. I’ve been interested in programming since my childhood. I'm a self-taught developer and love to help others figure out programming on their own as well  </p>
+<p>Hi! I am a MERN | MEAN | VUE | REACT-NATIVE developer. I’ve been interested in programming since my childhood. I'm a self-taught developer and love to help others figure out programming on their own as well  </p>
 
 - 📚 I'm currently learning DEVOPS,
 
