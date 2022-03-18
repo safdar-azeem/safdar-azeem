@@ -2,7 +2,7 @@
 
 <p>Hi! I am a MERN | VUE | REACT-NATIVE developer. With around 3 years of extensive experience. I’ve been interested in programming since my childhood, because it gave me freedom to build something with which people can interact, and it didn’t require a big investment. All I needed was a computer and programming courses. I'm a self-taught developer and love to help others figure out programming on their own as well, I am familiar with a wide range of programming utilities and languages, Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. I have acquired the skills and knowledge necessary to make any project a success.  </p>
 
-- 📚 I'm currently learning DEVOPS,
+- 📚 I'm currently learning Blockchain Development,
 
 #### Connect with me
 
